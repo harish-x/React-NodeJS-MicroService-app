@@ -75,7 +75,8 @@ This repository contains a fully functional microservice-based freelance applica
 
     - Provides reusable types and functionalities like file uploads.
 
-![Screenshot from 2025-01-19 20-05-06](https://github.com/user-attachments/assets/2c9e78c6-4d78-44e6-9cc4-1adc67d186ee)
+![Screenshot from 2025-01-19 20-05-06](https://github.com/user-attachments/assets/c0b61a07-34ff-4c33-9f36-c60d43c85cd8)
+
 
 # Features
 
